@@ -1,0 +1,18 @@
+.Input:focus{
+    outline: none;
+}
+
+::placeholder{
+    color: black;
+    font-weight: 700;
+}
+
+.Input{
+    border: none;
+}
+
+.btn:hover{
+    background-color: white;
+    color: black;
+    transition: all 0.8s ease;
+}

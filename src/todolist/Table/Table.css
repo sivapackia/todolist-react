@@ -1,0 +1,6 @@
+.tablehead{
+    font-weight: 800!important;
+}
+.tablerow:nth-child(Odd){
+    color: red;
+}
